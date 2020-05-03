@@ -1,1 +1,1 @@
-Ala ma kota.
+Tworzenie tekstu w vim.
